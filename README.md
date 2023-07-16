@@ -1,5 +1,6 @@
 # Portfolio 
 This is my personal portfolio website developed in react. I have also designed this portfolio according to my design sense. I'll soon provide figma link for this design.
+Also suggestions are welcomed.
 
 # Getting Started with Create React App
 
