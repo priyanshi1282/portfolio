@@ -21,7 +21,7 @@ export default class navbar extends Component {
           <div className="dropdown">
             <ul>
               <li>home</li>
-              <li>home</li>
+              <li>about</li>
               <li>home</li>
             </ul>
           </div>
