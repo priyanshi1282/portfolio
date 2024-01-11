@@ -1,3 +1,4 @@
+// works as index.js as in create-react-app
 import { Inter } from 'next/font/google'
 import './globals.css'
 
