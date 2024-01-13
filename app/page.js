@@ -6,9 +6,6 @@ export default function Home() {
   return (
     <main>
       <Navbar />
-      <Link href='/experience'>
-        experience
-      </Link>
     </main>
   )
 }

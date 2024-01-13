@@ -1,4 +1,20 @@
 /* this is our app.css as in create-react-app */
+
+/* goofle font import */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;600;700&family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+/* font-family: 'Inconsolata', monospace;
+font-family: 'Open Sans', sans-serif; */
+
+/* tailwind import */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* commond css */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+main{
+    @apply px-[5%] max-w-[1200px] mx-auto;
+}
+
