@@ -13,6 +13,8 @@ font-family: 'Open Sans', sans-serif; */
 /* commond css */
 body{
     font-family: 'Open Sans', sans-serif;
+    background-color: #F6F9FC;
+    color: #5A5D7A;
 }
 main{
     @apply px-[5%] max-w-[1200px] mx-auto;
