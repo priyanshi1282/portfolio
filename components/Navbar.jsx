@@ -31,11 +31,11 @@ const Navbar = () => {
                 </div>
             </div>
             {/* nav-items */}
-            <div className={`nav-items md:flex md:gap-5 gap-1 md:flex-row flex-col  md:static absolute top-[55px] right-0 ${isOpen?"flex":"hidden"} md:shadow-none shadow-md md:p-0 p-4 md:rounded-none rounded md:w-auto w-36 items-end md:items-center`} >
-                <Link href="/">Home</Link>
-                <Link href="/">Experience</Link>
-                <Link href="/">Projects</Link>
-                <Link href="/">Contact</Link>
+            <div className={`nav-items ${isOpen?"flex":"hidden"} `} >
+                <Link className='hover' href="/">Home</Link>
+                <Link className='hover' href="/">Experience</Link>
+                <Link className='hover' href="/">Projects</Link>
+                <Link className='hover' href="/">Contact</Link>
             </div>
         </nav>
     </header>
