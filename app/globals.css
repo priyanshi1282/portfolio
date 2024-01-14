@@ -18,13 +18,20 @@ body{
 }
 
 main{
-    @apply px-[5%] max-w-[1200px] mx-auto;
+    @apply px-[5%] max-w-[1200px] mx-auto md:text-xl text-lg tracking-wide;
+}
+
+p{
+    @apply leading-9 font-light;
 }
 
 .hover{
     @apply hover:scale-105 transition duration-300 ease-in-out;
 }
 
+.link{
+    @apply text-[#747FE0] underline font-semibold;
+}
 
 /* navbar css */
 .nav-items{
@@ -35,12 +42,13 @@ main{
    @apply decoration-[#747FE0] decoration-4 hover:underline underline-offset-8;
 }
 
+
+/* hero css */
 .typewriter{
-    @apply md:text-7xl text-4xl tracking-wider;
+    @apply md:text-7xl text-4xl tracking-wider font-semibold;
     color: #747FE0;
     font-family: 'Inconsolata', monospace;
 }
-
 
 .Typewriter__cursor{
     @apply  bg-[#747FE0];
