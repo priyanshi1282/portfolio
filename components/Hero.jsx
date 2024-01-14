@@ -4,11 +4,15 @@ import Typewriter from 'typewriter-effect';
 const Hero = () => {
     return (
         <section>
-           <Typewriter 
+            <div className='flex typewriter gap-6'>
+                <span>&gt;</span>
+            <Typewriter 
         onInit={(typewriter) => { 
-          typewriter.typeString('Hello World!').start();
+          typewriter.typeString('Priyanshi Agrawal').start();
         }} 
       />
+            </div>
+           
         </section>
     )
 }
