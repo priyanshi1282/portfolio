@@ -1,14 +1,14 @@
 "use client"
 import Typewriter from 'typewriter-effect';
 import Link from 'next/link';
-
+import Terminal from './Terminal';
 
 const Hero = () => {
     return (
         <section>
 
             {/* typewriter */}
-            <div className='flex typewriter gap-6'>
+            <div className='flex typewriter gap-6 font-mono'>
                 <span>&gt;</span>
                 <Typewriter
                     onInit={(typewriter) => {
