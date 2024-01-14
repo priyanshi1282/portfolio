@@ -14,8 +14,8 @@ const Navbar = () => {
         setAvatar(!avatar);
     }
   return (
-    <header>
-        <nav className='flex justify-between items-center h-[60px] relative'>
+    <header className='md:mb-20 mb-12'>
+        <nav className='flex justify-between items-center h-[69px] relative z-50'>
             {/* nav header */}
             <div className="nav-header flex justify-between items-center w-full">
                 {/* nav brand */}
