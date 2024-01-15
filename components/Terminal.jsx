@@ -5,7 +5,7 @@ const Terminal = () => {
     return (
         <section className='md:mt-16 mt-10 font-mono w-full'>
             {/* terminal header */}
-            <div className='bg-[#5A5D7A] rounded-lg shadow-2xl'>
+            <div className='bg-[#5A5D7A] rounded-lg shadow-xl'>
                 <div className='bg-[#E4E3E5] rounded-t-lg flex text-sm p-2 gap-2'>
                     <div className="text-[#F96256]"><FaCircle /></div>
                     <div className="text-[#FDBC3D]"><FaCircle /></div>
