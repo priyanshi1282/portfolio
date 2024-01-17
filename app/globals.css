@@ -37,6 +37,18 @@ p{
     font-family: 'Inconsolata', monospace;
 }
 
+.btn{
+    @apply px-4 py-2 rounded text-sm font-bold flex items-center gap-1 shadow-md;
+}
+
+.btn-bg{
+    @apply bg-[#747FE0] text-[#f7f7f7] ;
+}
+
+.btn-outline{
+    @apply text-[#747FE0];
+}
+
 /* navbar css */
 .nav-items{
     @apply text-sm md:text-xl md:flex md:gap-10 gap-2 md:flex-row flex-col  md:static absolute top-[55px] right-0 md:shadow-none shadow-md md:p-0 p-4 md:rounded-none rounded md:w-auto w-32 items-end md:items-center;
