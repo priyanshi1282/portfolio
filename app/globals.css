@@ -73,6 +73,6 @@ p{
     @apply text-[#35FEFF];
 }
 
-.cursor{
-    @apply bg-[#F7F7F7] w-3 animate-pulse;
+.terminal-item .Typewriter__cursor{
+    @apply bg-[#F7F7F7] text-[#f7f7f7];
 }

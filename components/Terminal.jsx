@@ -1,5 +1,7 @@
+"use client"
 import { FaCircle } from "react-icons/fa";
 import Link from "next/link";
+import Typewriter from 'typewriter-effect';
 
 const Terminal = () => {
     return (
@@ -100,7 +102,12 @@ const Terminal = () => {
                         {/* ques */}
                         <div className="ques">
                             <p>&gt;</p>
-                            <div className="cursor"></div>
+                            <Typewriter
+                                onInit={(typewriter) => {
+                                    typewriter.typeString(' ').start();
+                                }}
+                            />
+                            {/* <div className="cursor"></div> */}
                         </div>
                     </div>
 

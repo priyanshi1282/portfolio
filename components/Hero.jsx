@@ -1,7 +1,6 @@
 "use client"
 import Typewriter from 'typewriter-effect';
 import Link from 'next/link';
-import Terminal from './Terminal';
 
 const Hero = () => {
     return (
