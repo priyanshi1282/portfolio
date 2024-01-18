@@ -77,7 +77,7 @@ const Terminal = () => {
                         {/* ans */}
                         <div className="ans">
                             <p>
-                                ["Core Java", "React JS", "Tailwind/Bootstrap", "Git", "Designing"]
+                                ["Java", "React JS", "Tailwind/Bootstrap", "Git", "MySQL", "Designing"]
                             </p>
                         </div>
                     </div>
