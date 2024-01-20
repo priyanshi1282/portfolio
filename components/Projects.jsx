@@ -16,7 +16,9 @@ const Projects = () => {
                 <div className='flex flex-col md:gap-4 gap-2 justify-between'>
                     <h1 className='md:text-3xl text-xl font-semibold'>DermDetect</h1>
                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat commodi quo corrupti id fugit possimus dolorem deleniti hic. Magni, reprehenderit.</p>
-                    <div>icons</div>
+                    <div>
+                        <Image src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma" width={100} height={100} />
+                    </div>
                     <div className='flex md:gap-6 gap-3'>
                         <button className='btn btn-bg hover'>Live Demo <FaExternalLinkAlt /></button>
                         <button className='btn btn-outline hover'><FaGithub />Source Code</button>

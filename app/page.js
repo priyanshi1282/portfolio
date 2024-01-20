@@ -15,6 +15,7 @@ export default function Home() {
       <Terminal />
       <Experience />
       <Projects />
+      {/* <Link href='/experience'>epx</Link> */}
     </main>
   )
 }
