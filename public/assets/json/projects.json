@@ -2,12 +2,39 @@
     "projects" : [
         {
             "id" : 1,
-            "title" : "SkyDoor Website",
-            "banner" : "https://ik.imagekit.io/priyanshi/Portfolio/project_dermdetect.png?updatedAt=1705859796750",
-            "skills" : "https://skillicons.dev/icons?i=nextjs,react,js,tailwind,css,mongodb,vercel",
+            "title" : "SkyDoor",
+            "banner" : "https://ik.imagekit.io/priyanshi/Portfolio/project_skydoor.png?updatedAt=1705862359105",
+            "skills" : "https://skillicons.dev/icons?i=react,js,bootstrap,css,vercel,git",
             "description" : "edumate is a learning website which helps user to explore the courses of their particular domain. Roadmaps are provided for the ease of user to clearly visualize the next steps for their particular course. Tutorials are provided for learning the course and with the help of giving quizes one can improve.",
-            "demo" : "https://github.com/priyanshi1282?tab=repositories",
-            "repo" : "https://github.com/priyanshi1282?tab=repositories"
+            "demo" : "https://skydooredtech.in/",
+            "repo" : "/"
+        },
+        {
+            "id" : 2,
+            "title" : "Wittyhacks.in",
+            "banner" : "https://ik.imagekit.io/priyanshi/Portfolio/project_wittyhacks.png?updatedAt=1705862359162",
+            "skills" : "https://skillicons.dev/icons?i=js,jquery,bootstrap,css,git",
+            "description" : "edumate is a learning website which helps user to explore the courses of their particular domain. Roadmaps are provided for the ease of user to clearly visualize the next steps for their particular course. Tutorials are provided for learning the course and with the help of giving quizes one can improve.",
+            "demo" : "https://wittyhacks.in/",
+            "repo" : "https://github.com/wittyhacks/wittyhacks.com/tree/priyanshi/master/wittyhacks2023"
+        },
+        {
+            "id" : 3,
+            "title" : "Edumate",
+            "banner" : "https://ik.imagekit.io/priyanshi/Portfolio/project_edumate.png?updatedAt=1705862359174",
+            "skills" : "https://skillicons.dev/icons?i=js,html,css,git",
+            "description" : "edumate is a learning website which helps user to explore the courses of their particular domain. Roadmaps are provided for the ease of user to clearly visualize the next steps for their particular course. Tutorials are provided for learning the course and with the help of giving quizes one can improve.",
+            "demo" : "https://priyanshi1282.github.io/edureka/index.html",
+            "repo" : "https://github.com/priyanshi1282/edureka"
+        },
+        {
+            "id" : 4,
+            "title" : "Resume Builder",
+            "banner" : "https://ik.imagekit.io/priyanshi/Portfolio/project_resumebuilder.png?updatedAt=1705862359053",
+            "skills" : "https://skillicons.dev/icons?i=js,html,css,git",
+            "description" : "edumate is a learning website which helps user to explore the courses of their particular domain. Roadmaps are provided for the ease of user to clearly visualize the next steps for their particular course. Tutorials are provided for learning the course and with the help of giving quizes one can improve.",
+            "demo" : "https://priyanshi1282.github.io/Resume-Builder-WebApp/",
+            "repo" : "https://github.com/priyanshi1282/Resume-Builder-WebApp"
         }
     ]
 }
