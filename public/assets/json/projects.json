@@ -1,0 +1,22 @@
+{
+    "projects" : [
+        {
+            "id" : 1,
+            "title" : "SkyDoor Website",
+            "banner" : "url...",
+            "skills" : "url....",
+            "description" : "lorem ipsum....",
+            "demo" : "url....",
+            "repo" : "url..."
+        },
+        {
+            "id" : 2,
+            "title" : "SkyDoor Website",
+            "banner" : "url...",
+            "skills" : "url....",
+            "description" : "lorem ipsum....",
+            "demo" : "url....",
+            "repo" : "url..."
+        }
+    ]
+}
