@@ -9,7 +9,7 @@ const Projects = () => {
     <section>
         <Heading title="Projects" />
         {/* project card container */}
-        <div>
+        <div className='flex flex-col gap-4 md:gap-16'>
         {/* project card */}
         {
             data.map((item)=>(

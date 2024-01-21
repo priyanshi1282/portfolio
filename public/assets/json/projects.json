@@ -3,20 +3,11 @@
         {
             "id" : 1,
             "title" : "SkyDoor Website",
-            "banner" : "url...",
-            "skills" : "url....",
-            "description" : "lorem ipsum....",
-            "demo" : "url....",
-            "repo" : "url..."
-        },
-        {
-            "id" : 2,
-            "title" : "SkyDoor Website",
-            "banner" : "url...",
-            "skills" : "url....",
-            "description" : "lorem ipsum....",
-            "demo" : "url....",
-            "repo" : "url..."
+            "banner" : "https://ik.imagekit.io/priyanshi/Portfolio/project_dermdetect.png?updatedAt=1705859796750",
+            "skills" : "https://skillicons.dev/icons?i=nextjs,react,js,tailwind,css,mongodb,vercel",
+            "description" : "edumate is a learning website which helps user to explore the courses of their particular domain. Roadmaps are provided for the ease of user to clearly visualize the next steps for their particular course. Tutorials are provided for learning the course and with the help of giving quizes one can improve.",
+            "demo" : "https://github.com/priyanshi1282?tab=repositories",
+            "repo" : "https://github.com/priyanshi1282?tab=repositories"
         }
     ]
 }
