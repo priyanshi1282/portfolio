@@ -15,9 +15,9 @@ const ProjectCard = (props) => {
                         <Image src={props.item.skills} width={200} height={200} className='w-auto md:h-[25px] h-[15px]' />
                     </div>
                     <div className='flex md:gap-6 gap-3'>
-                        <Link className='btn btn-bg hover' href={props.item.demo}> Live Demo <FaExternalLinkAlt /></Link>
+                        <Link className='btn btn-bg hover' href={props.item.demo} rel="noopener noreferrer" target="_blank"> Live Demo <FaExternalLinkAlt /></Link>
                         {
-                            props.item.repo!="/" ? <Link href={props.item.repo} className='btn btn-outline hover'><FaGithub />Source Code</Link> : <span></span>
+                            props.item.repo!="/" ? <Link href={props.item.repo} className='btn btn-outline hover' rel="noopener noreferrer" target="_blank"><FaGithub />Source Code</Link> : <span></span>
                         }
                         
                     </div>
