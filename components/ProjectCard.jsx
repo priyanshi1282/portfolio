@@ -2,7 +2,6 @@ import Image from 'next/image'
 import { FaExternalLinkAlt } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import Link from 'next/link';
-import { space } from 'postcss/lib/list';
 
 const ProjectCard = (props) => {
   return (
