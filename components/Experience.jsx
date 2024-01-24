@@ -8,11 +8,14 @@ const Experience = () => {
   return (
     <section>
         <Heading title="Experience" />
+        <div className='flex flex-col md:gap-20 gap-10'>
         {
           data.map((item)=>(
             <ExperienceCard key={item.id} item={item} />
           ))
         }
+        </div>
+        
         
     </section>
   )
