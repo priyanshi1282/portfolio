@@ -5,8 +5,9 @@ import Navbar from '@/components/Navbar'
 import Hero from '@/components/Hero';
 import Terminal from '@/components/Terminal';
 import Experience from '@/components/Experience';
-import Projects
- from '@/components/Projects';
+import Projects from '@/components/Projects';
+import Volunteer from '@/components/Volunteer';
+
 export default function Home() {
   return (
     <main>
@@ -15,6 +16,7 @@ export default function Home() {
       <Terminal />
       <Experience />
       <Projects />
+      <Volunteer />
       {/* <Link href='/experience'>epx</Link> */}
     </main>
   )
