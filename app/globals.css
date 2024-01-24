@@ -18,11 +18,11 @@ body{
 }
 
 main{
-    @apply px-[5%] max-w-[1200px] mx-auto md:text-xl text-lg tracking-wide;
+    @apply px-[5%] max-w-[1200px] mx-auto md:text-xl tracking-wide;
 }
 
 p{
-    @apply leading-9 font-light;
+    @apply leading-8 font-light;
 }
 
 .hover{

@@ -4,12 +4,12 @@
             "id" : 1,
             "company" : "SkyDoor EdTech International",
             "date" : "Aug 2023 - Oct 2023",
-            "location" : "Indore",
+            "location" : "Indore, M.P.",
             "url" : "https://skydooredtech.in/",
-            "logo" : "/",
+            "logo" : "https://ik.imagekit.io/priyanshi/Portfolio/skydoor.png?updatedAt=1706077725262",
             "role" : "Web Developer Intern",
-            "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic quae ipsa laborum eos mollitia adipisci debitis atque deleniti dignissimos quo.",
-            "skills" : "/"
+            "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic quae ipsa laborum eos mollitia adipisci debitis atque deleniti dignissimos quo.  Hic quae ipsa laborum eos mollitia adipisci debitis atque deleniti.",
+            "skills" : "https://skillicons.dev/icons?i=react,js,bootstrap,css,vercel,git"
         }
     ]
 }
