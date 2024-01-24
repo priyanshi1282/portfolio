@@ -1,6 +1,5 @@
 // works as index.js as in create-react-app
 import './globals.css'
-import Head from 'next/head'
 
 export const metadata = {
   title: 'Priyanshi Agrawal | Portfolio',
@@ -10,9 +9,6 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <Head>
-			<link rel="icon" href="/favicon.ico" sizes="any" />
-		</Head>
       <body>{children}</body>
     </html>
   )

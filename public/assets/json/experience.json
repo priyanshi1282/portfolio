@@ -1,0 +1,15 @@
+{
+    "experience" : [
+        {
+            "id" : 1,
+            "company" : "SkyDoor EdTech International",
+            "date" : "Aug 2023 - Oct 2023",
+            "location" : "Indore",
+            "url" : "https://skydooredtech.in/",
+            "logo" : "/",
+            "role" : "Web Developer Intern",
+            "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic quae ipsa laborum eos mollitia adipisci debitis atque deleniti dignissimos quo.",
+            "skills" : "/"
+        }
+    ]
+}
