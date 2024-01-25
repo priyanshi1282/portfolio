@@ -1,3 +1,4 @@
+import { Span } from "next/dist/trace";
 import Image from "next/image"
 import Link from "next/link"
 import { FaExternalLinkAlt } from "react-icons/fa";
@@ -34,7 +35,10 @@ const ExperienceCard = (props) => {
                 </div>
             </div>
             <p className="mt-3">{description}</p>
-            <Image width={150} height={150} src={skills} className="mt-3" />
+            {
+                skills!='/'?<Image width={150} height={150} src={skills} className="mt-3" />: <span></span>
+            
+            }
         </div>
     </div>
   )
