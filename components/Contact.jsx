@@ -1,13 +1,14 @@
 import Heading from "./Heading"
 import Image from "next/image"
+import { IoSendSharp } from "react-icons/io5";
 
 const Contact = () => {
   return (
     <section>
         <Heading title="Contact Me!" />
-        <div className="flex">
-            <div>
-                <Image src="/" width={500} height={500} />
+        <div className="flex justify-between items-center">
+            <div className="overflow-hidden rounded-full">
+                <Image src="https://ik.imagekit.io/priyanshi/Portfolio/avatar.jpeg?updatedAt=1706277685939" width={500} height={500} className="rounded-full w-[320px] hover hover:grayscale-[50%] " />
             </div>
             <div>
                 <form>
@@ -32,7 +33,7 @@ const Contact = () => {
                     </div>
                     
                     {/* row3 */}
-                    <button className='btn btn-bg hover mt-4'>Send</button>
+                    <button className='btn btn-bg hover mt-4'>Send <IoSendSharp /></button>
                 </form>
             </div>
         </div>
