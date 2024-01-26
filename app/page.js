@@ -5,7 +5,7 @@ import Terminal from '@/components/Terminal';
 import Experience from '@/components/Experience';
 import Projects from '@/components/Projects';
 import Volunteer from '@/components/Volunteer';
-
+import Contact from '@/components/Contact';
 
 export default function Home() {
   return (
@@ -16,6 +16,7 @@ export default function Home() {
       <Experience />
       <Projects />
       <Volunteer />
+      <Contact />
       {/* <Link href='/experience'>epx</Link> */}
     </main>
   )
