@@ -14,9 +14,9 @@ const Footer = () => {
             <Link href="/" className='hover'>Twitter</Link>
         </div>
         <div className='flex flex-wrap gap-4 md:gap-11 justify-center text-wrap'>
-            <Link href="/" className='hover'>Home</Link>
-            <Link href="/" className='hover'>Experience</Link>
-            <Link href="/" className='hover'>Projects</Link>
+            <Link href="#hero" className='hover'>Home</Link>
+            <Link href="#experience" className='hover'>Experience</Link>
+            <Link href="#projects" className='hover'>Projects</Link>
         </div>
         <p className='md:text-base text-xs'>Made with &#9829; by Priyanshi ©2024</p>
     </footer>
