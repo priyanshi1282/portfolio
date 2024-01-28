@@ -88,3 +88,8 @@ p{
 .terminal-item .Typewriter__cursor{
     @apply bg-[#F7F7F7] text-[#f7f7f7];
 }
+
+/* footer css */
+footer .hover{
+    @apply decoration-[#747FE0] decoration-4 hover:underline underline-offset-8;
+ }

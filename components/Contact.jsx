@@ -11,7 +11,7 @@ const Contact = () => {
                 <Image src="https://ik.imagekit.io/priyanshi/Portfolio/avatar.jpeg?updatedAt=1706277685939" width={500} height={500} className="rounded-full w-[250px] md:w-[320px] hover hover:grayscale-[50%] " />
             </div>
             <div>
-                <form className="flex flex-col gap-4">
+                <form className="flex flex-col gap-y-4">
                     {/* row1 */}
                     <div className="flex gap-4 md:flex-row flex-col">
                         {/* item */}
