@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 const Hero = () => {
     return (
-        <section>
+        <section id='hero'>
 
             {/* typewriter */}
             <div className='flex typewriter gap-6 font-mono'>

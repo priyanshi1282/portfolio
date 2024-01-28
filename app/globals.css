@@ -11,6 +11,10 @@ font-family: 'Open Sans', sans-serif; */
 @tailwind utilities;
 
 /* commond css */
+html{
+    @apply scroll-smooth;
+}
+
 body{
     font-family: 'Open Sans', sans-serif;
     background-color: #F6F9FC;
@@ -38,7 +42,7 @@ p{
 }
 
 .btn{
-    @apply px-4 py-2 rounded text-sm font-bold flex items-center gap-1 shadow-md;
+    @apply px-4  py-2 rounded md:text-sm text-xs font-bold flex items-center gap-1 shadow-md;
 }
 
 .btn-bg{

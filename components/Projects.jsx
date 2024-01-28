@@ -6,7 +6,7 @@ import ProjectCard from './ProjectCard';
 const Projects = () => {
     const data= projectData.projects;
   return (
-    <section>
+    <section id='projects'>
         <Heading title="Projects" />
         {/* project card container */}
         <div className='flex flex-col gap-4 md:gap-16'>

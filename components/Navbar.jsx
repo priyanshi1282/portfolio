@@ -34,10 +34,10 @@ const Navbar = () => {
                 </div>
                 {/* nav-items */}
                 <div className={`nav-items ${isOpen ? "flex" : "hidden"} `} >
-                    <Link className='hover' href="/">Home</Link>
-                    <Link className='hover' href="/">Experience</Link>
-                    <Link className='hover' href="/">Projects</Link>
-                    <Link className='hover' href="/">Contact</Link>
+                    <Link className='hover' href="#hero">Home</Link>
+                    <Link className='hover' href="#experience">Experience</Link>
+                    <Link className='hover' href="#projects">Projects</Link>
+                    <Link className='hover' href="#contact">Contact</Link>
                 </div>
             </nav>
         </header>

@@ -4,11 +4,11 @@ import { IoSendSharp } from "react-icons/io5";
 
 const Contact = () => {
   return (
-    <section>
+    <section id="contact">
         <Heading title="Contact Me!" />
         <div className="flex justify-between items-center flex-col-reverse md:flex-row gap-10">
             <div className="overflow-hidden rounded-full">
-                <Image src="https://ik.imagekit.io/priyanshi/Portfolio/avatar.jpeg?updatedAt=1706277685939" width={500} height={500} className="rounded-full w-[250px] md:w-[320px] hover hover:grayscale-[50%] " />
+                <Image src="https://ik.imagekit.io/priyanshi/Portfolio/avatar.jpeg?updatedAt=1706277685939" width={500} height={500} className="rounded-full w-[250px] md:w-[320px] hover" />
             </div>
             <div>
                 <form className="flex flex-col gap-y-4">

@@ -11,7 +11,7 @@ const ProjectCard = (props) => {
                     <h1 className='md:text-3xl text-xl font-semibold'>{props.item.title}</h1>
                     <p className='text-base'>{props.item.description}</p>
                     <div>
-                        <Image src={props.item.skills} width={200} height={200} className='w-auto md:h-[25px] h-[15px]' />
+                        <Image src={props.item.skills} width={200} height={200} className='w-auto md:h-[25px] h-[20px]' />
                     </div>
                     <div className='flex md:gap-6 gap-3'>
                         <Link className='btn btn-bg hover' href={props.item.demo} rel="noopener noreferrer" target="_blank"> Live Demo <FaExternalLinkAlt /></Link>
