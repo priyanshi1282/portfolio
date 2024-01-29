@@ -34,7 +34,6 @@ const Navbar = () => {
                 </div>
                 {/* nav-items */}
                 <div className={`nav-items ${isOpen ? "flex" : "hidden"} `} >
-                    <Link className='hover' href="#hero">Home</Link>
                     <Link className='hover' href="#experience">Experience</Link>
                     <Link className='hover' href="#projects">Projects</Link>
                     <Link className='hover' href="#contact">Contact</Link>
