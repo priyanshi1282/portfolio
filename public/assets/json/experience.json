@@ -2,24 +2,13 @@
     "experience" : [
         {
             "id" : 1,
-            "company" : "Tech Vraksh Pvt. Ltd.",
-            "date" : "Jan 2024 - Present",
-            "location" : "Indore, M.P.",
-            "url" : "https://skydooredtech.in/",
-            "logo" : "https://ik.imagekit.io/priyanshi/Portfolio/skydoor.png?updatedAt=1706077725262",
-            "role" : "Web Developement Intern",
-            "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic quae ipsa laborum eos mollitia adipisci debitis atque deleniti dignissimos quo.  Hic quae ipsa laborum eos mollitia adipisci debitis atque deleniti.",
-            "skills" : "https://skillicons.dev/icons?i=react,js,bootstrap,css,vercel,git"
-        },
-        {
-            "id" : 2,
             "company" : "SkyDoor EdTech International",
             "date" : "Aug 2023 - Oct 2023",
             "location" : "Indore, M.P.",
             "url" : "https://skydooredtech.in/",
             "logo" : "https://ik.imagekit.io/priyanshi/Portfolio/skydoor.png?updatedAt=1706077725262",
             "role" : "Web Developement Intern",
-            "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic quae ipsa laborum eos mollitia adipisci debitis atque deleniti dignissimos quo.",
+            "description" : "Worked on their business website. Interface was designed to develop client's trust and positive interaction. Also involved in creating posters/reels, bringing value to client communication, and boosting brand visibility.",
             "skills" : "https://skillicons.dev/icons?i=react,js,bootstrap,css,vercel,git"
         }
     ]
