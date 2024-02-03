@@ -9,6 +9,10 @@ import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
 
 export default function Home() {
+  const serviceId = process.env.EMAILJS_SERVICE_ID;
+  const templateId = process.env.EMAILJS_TEMPLATE_ID;
+  const publicApiKey = process.env.EMAILJS_PUBLIC_KEY;
+
   return (
     <main>
       <Navbar />
@@ -17,7 +21,7 @@ export default function Home() {
       <Experience />
       <Projects />
       <Volunteer />
-      <Contact />
+      <Contact serviceId={serviceId} templateId={templateId} publicApiKey={publicApiKey} />
       <Footer />
       {/* <Link href='/experience'>epx</Link> */}
     </main>
