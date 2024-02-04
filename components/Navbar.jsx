@@ -21,9 +21,9 @@ const Navbar = () => {
                     {/* nav brand */}
                     <div className="nav-brand font-bold cursor-pointer" onClick={handleBrandClick}>
                         {
-                            // avatar ? <Image src="/assets/images/avatar.png" width={500} height={500} className='w-[50px] h-[50px] rounded-full' /> : <h1 className='text-3xl'>pa.</h1>
+                            avatar ? <Image src="/assets/images/avatar.png" width={500} height={500} className='w-[30px] h-[30px] rounded-full' /> : <h1 className='text-3xl'>pa.</h1>
 
-                            avatar?<h1 className='md:text-3xl text-xl'>🌼</h1>:<h1 className='md:text-3xl text-xl'>pa.</h1>
+                            // avatar?<h1 className='md:text-3xl text-xl'>🌼</h1>:<h1 className='md:text-3xl text-xl'>pa.</h1>
                         }
 
                     </div>
