@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className='md:py-12 py-6 mt-12 md:mt-28 text-center flex flex-col gap-8 md:gap-12'>
         <div className='flex flex-wrap gap-2 md:gap-4 text-base justify-center'>
-            <Link href="mailto:priyanshiagrawal1282@gmail.com" className='hover' rel="noopener noreferrer" target="_blank">priyanshiagrawal1282@gmail.com</Link>
+            <Link href="mailto:priyanshiagrawal1282@gmail.com" className='hover' rel="noopener noreferrer" target="_blank">Email</Link>
             <span>||</span>
             <Link href="https://www.linkedin.com/in/priyanshi-agrawal-88b6341bb/" className='hover' rel="noopener noreferrer" target="_blank">LinkedIn</Link>
             <span>||</span>

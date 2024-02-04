@@ -37,7 +37,7 @@ const Terminal = () => {
                         </div>
                         {/* ans */}
                         <div className="ans">
-                            <p>["<Link className="terminal-link" href="/">priyanshiagrawal1282@gmail.com</Link>", "<Link className="terminal-link" href="/">LinkedIn</Link>", "<Link className="terminal-link" href="/">Github</Link>"]</p>
+                            <p>["<Link className="terminal-link" href="mailto:priyanshiagrawal1282@gmail.com" rel="noopener noreferrer" target="_blank">priyanshiagrawal1282@gmail.com</Link>", "<Link className="terminal-link" href="https://www.linkedin.com/in/priyanshi-agrawal-88b6341bb/" rel="noopener noreferrer" target="_blank">LinkedIn</Link>", "<Link className="terminal-link" href="https://github.com/priyanshi1282" rel="noopener noreferrer" target="_blank">Github</Link>"]</p>
                         </div>
                     </div>
 
@@ -50,7 +50,7 @@ const Terminal = () => {
                         </div>
                         {/* ans */}
                         <div className="ans">
-                            <p> "<Link className="terminal-link" href="/">priyanshi.pdf</Link>"</p>
+                            <p> "<Link className="terminal-link" href="/assets/priyanshi.pdf" rel="noopener noreferrer" target="_blank">priyanshi.pdf</Link>"</p>
                         </div>
                     </div>
 
