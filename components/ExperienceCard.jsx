@@ -37,7 +37,7 @@ const ExperienceCard = (props) => {
             
             <p className="mt-3">{description}</p>
             {
-                skills!='/'?<Image width={150} height={150} src={skills} className="mt-3" />: <span></span>
+                skills!='/'?<Image width={200} height={200} src={skills} className="mt-3 max-w-[180px] h-[25px]" />: <span></span>
             
             }
         </div>

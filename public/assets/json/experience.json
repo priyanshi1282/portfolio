@@ -2,6 +2,17 @@
     "experience" : [
         {
             "id" : 1,
+            "company" : "Techvraksh Pvt. Ltd.",
+            "date" : "Jan 2024 - Present",
+            "location" : "Indore, M.P.",
+            "url" : "https://www.techvraksh.com/",
+            "logo" : "https://ik.imagekit.io/priyanshi/Portfolio/techvraksh.jpg?updatedAt=1707066650381",
+            "role" : "Web Developement Intern",
+            "description" : "Actively contributing to their new product where my role is to develope frontend of the website. Aming to contribute as fullstack developer.",
+            "skills" : "https://skillicons.dev/icons?i=react,sass,bootstrap,css,figma,git,"
+        },
+        {
+            "id" : 2,
             "company" : "SkyDoor EdTech International",
             "date" : "Aug 2023 - Oct 2023",
             "location" : "Indore, M.P.",
