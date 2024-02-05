@@ -13,6 +13,7 @@ const Contact = ({ serviceId, templateId, publicApiKey }) => {
     const sendEmail = (e) => {
         e.preventDefault();
 
+        // email js params
         const templateParams = {
             user_name: formData.name,
             user_email: formData.email,
