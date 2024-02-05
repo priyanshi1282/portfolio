@@ -27,7 +27,7 @@ const ExperienceCard = (props) => {
         <div className="md:w-[calc(100%-25%)]">
             <div className="md:flex items-center gap-4">
                 <div className="w-[50px] h-[50px] rounded-full bg-white shadow-sm flex items-center p-2">
-                <Image width={100} height={100} src={logo} />
+                <Image width={100} height={100} src={logo} alt="logo" />
                 </div>
                 <div>
                     <p className="items-center gap-3 font-medium">{company} <Link href={url} className="inline-flex" rel="noopener noreferrer" target="_blank"><FaExternalLinkAlt /></Link></p>
@@ -37,7 +37,7 @@ const ExperienceCard = (props) => {
             
             <p className="mt-3">{description}</p>
             {
-                skills!='/'?<Image width={200} height={200} src={skills} className="mt-3 max-w-[180px] h-[25px]" />: <span></span>
+                skills!='/'?<Image width={200} height={200} src={skills} className="mt-3 max-w-[180px] h-[25px]" alt="skills" />: <span></span>
             
             }
         </div>
