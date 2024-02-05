@@ -3,47 +3,47 @@
         {
             "id" : 1,
             "company" : "Datacode",
-            "date" : "Aug 2023 - Oct 2023",
+            "date" : "Dec 2021 - Present",
             "location" : "Indore, M.P.",
             "url" : "https://datacode.in/",
             "logo" : "https://ik.imagekit.io/priyanshi/Portfolio/datacode.png?updatedAt=1707069284868",
             "role" : "Community Volunteer",
-            "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic quae ipsa laborum eos mollitia adipisci debitis atque deleniti dignissimos quo.",
+            "description" : "Actively involved in organizing diverse online and offline events to promote awareness and understanding of computer science and engineering among students.",
             "skills" : "/"
         },
         {
             "id" : 2,
             "company" : "Wittyhacks",
-            "date" : "Aug 2023 - Oct 2023",
+            "date" : "Feb 2022 - Present",
             "location" : "Indore, M.P.",
             "url" : "https://wittyhacks.in/",
             "logo" : "https://ik.imagekit.io/priyanshi/Portfolio/wittyhacks.png?updatedAt=1707069516318",
             "role" : "Creative Lead/ Organizer/ Website Manager",
-            "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic quae ipsa laborum eos mollitia adipisci debitis atque deleniti dignissimos quo.",
+            "description" : "Contributed in organizing Central India's largest hackathon at NMIMS Indore, offering support to ensure the event's success.",
             "skills" : "/"
         }
         ,
         {
             "id" : 3,
             "company" : "Google Developer Student Clubs",
-            "date" : "Aug 2023 - Oct 2023",
-            "location" : "Indore, M.P.",
+            "date" : "Nov 2021 - Sep 2023",
+            "location" : "Medi-Caps University, Indore",
             "url" : "https://gdsc.community.dev/medi-caps-university-indore/",
             "logo" : "https://ik.imagekit.io/priyanshi/Portfolio/gdscmu.png?updatedAt=1707069284845",
             "role" : "Design Head/ Core Member",
-            "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic quae ipsa laborum eos mollitia adipisci debitis atque deleniti dignissimos quo.",
+            "description" : "Responsible for designing promotional posters and reels to enhance community visibility and engagement.",
             "skills" : "/"
         }
         ,
         {
             "id" : 4,
             "company" : "Coding Society",
-            "date" : "Aug 2023 - Oct 2023",
-            "location" : "Indore, M.P.",
+            "date" : "Dec 2021 - Jul 2022",
+            "location" : "Medi-Casps University, Indore",
             "url" : "https://www.instagram.com/coding.society911/?hl=en",
             "logo" : "https://ik.imagekit.io/priyanshi/Portfolio/coding-society.png?updatedAt=1707069883112",
             "role" : "Graphic Team",
-            "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic quae ipsa laborum eos mollitia adipisci debitis atque deleniti dignissimos quo.",
+            "description" : "Collaborated with team members to create diverse posters for community engagement and promotion.",
             "skills" : "/"
         }
            
