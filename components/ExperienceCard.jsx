@@ -30,7 +30,7 @@ const ExperienceCard = (props) => {
                 <Image width={100} height={100} src={logo} />
                 </div>
                 <div>
-                    <p className="items-center gap-3 font-medium">{company} <Link href={url} className="inline-flex"><FaExternalLinkAlt /></Link></p>
+                    <p className="items-center gap-3 font-medium">{company} <Link href={url} className="inline-flex" rel="noopener noreferrer" target="_blank"><FaExternalLinkAlt /></Link></p>
                     <p className="text-sm">{role}</p>
                 </div>
             </div>
