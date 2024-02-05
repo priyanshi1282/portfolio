@@ -21,7 +21,7 @@ const Hero = () => {
                 <span className='font-normal'>
                     Building beautiful, impactful webs.
                 </span> I blend code and design to create scalable experiences that users love and developers respect. <br />
-                Let's build something beautiful <Link href="#contact" className='link'>together</Link> 🌼	
+                Let&apos;s build something beautiful <Link href="#contact" className='link'>together</Link> 🌼	
             </p>
         </section>
     )
