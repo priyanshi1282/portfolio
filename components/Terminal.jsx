@@ -24,7 +24,7 @@ const Terminal = () => {
                         </div>
                         {/* ans */}
                         <div className="ans">
-                            <p>"Indore, India"</p>
+                            <p>&quot;Indore, India&quot;</p>
                         </div>
                     </div>
 
@@ -37,7 +37,7 @@ const Terminal = () => {
                         </div>
                         {/* ans */}
                         <div className="ans">
-                            <p>["<Link className="terminal-link" href="mailto:priyanshiagrawal1282@gmail.com" rel="noopener noreferrer" target="_blank">priyanshiagrawal1282@gmail.com</Link>", "<Link className="terminal-link" href="https://www.linkedin.com/in/priyanshi-agrawal-88b6341bb/" rel="noopener noreferrer" target="_blank">LinkedIn</Link>", "<Link className="terminal-link" href="https://github.com/priyanshi1282" rel="noopener noreferrer" target="_blank">Github</Link>"]</p>
+                            <p>[&quot;<Link className="terminal-link" href="mailto:priyanshiagrawal1282@gmail.com" rel="noopener noreferrer" target="_blank">priyanshiagrawal1282@gmail.com</Link>&quot;, &quot;<Link className="terminal-link" href="https://www.linkedin.com/in/priyanshi-agrawal-88b6341bb/" rel="noopener noreferrer" target="_blank">LinkedIn</Link>&quot;, &quot;<Link className="terminal-link" href="https://github.com/priyanshi1282" rel="noopener noreferrer" target="_blank">Github</Link>&quot;]</p>
                         </div>
                     </div>
 
@@ -50,7 +50,7 @@ const Terminal = () => {
                         </div>
                         {/* ans */}
                         <div className="ans">
-                            <p> "<Link className="terminal-link" href="/assets/priyanshi.pdf" rel="noopener noreferrer" target="_blank">priyanshi.pdf</Link>"</p>
+                            <p> &quot;<Link className="terminal-link" href="/assets/priyanshi.pdf" rel="noopener noreferrer" target="_blank">priyanshi.pdf</Link>&quot;</p>
                         </div>
                     </div>
 
@@ -63,7 +63,7 @@ const Terminal = () => {
                         </div>
                         {/* ans */}
                         <div className="ans">
-                            <p>"Btech/Computer Science & Engineering - Medi-Caps University"</p>
+                            <p>&quot;Btech/Computer Science & Engineering - Medi-Caps University&quot;</p>
                         </div>
                     </div>
 
@@ -77,7 +77,7 @@ const Terminal = () => {
                         {/* ans */}
                         <div className="ans">
                             <p>
-                                ["Java", "React JS", "Sass", "Tailwind/Bootstrap", "Git", "MySQL", "Designing"]
+                                [&quot;Java&quot;, &quot;React JS&quot;, &quot;Sass&quot;, &quot;Tailwind/Bootstrap&quot;, &quot;Git&quot;, &quot;MySQL&quot;, &quot;Designing&quot;]
                             </p>
                         </div>
                     </div>
@@ -92,7 +92,7 @@ const Terminal = () => {
                         {/* ans */}
                         <div className="ans">
                             <p>
-                                ["Mentoring", "Art & Craft", "Organizing"]
+                                [&quot;Mentoring&quot;, &quot;Art & Craft&quot;, &quot;Organizing&quot;]
                             </p>
                         </div>
                     </div>
@@ -107,7 +107,6 @@ const Terminal = () => {
                                     typewriter.typeString(' ').start();
                                 }}
                             />
-                            {/* <div className="cursor"></div> */}
                         </div>
                     </div>
 
