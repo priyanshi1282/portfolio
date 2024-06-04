@@ -26,8 +26,8 @@ const ExperienceCard = (props) => {
         {/* right side -  all info */}
         <div className="md:w-[calc(100%-25%)]">
             <div className="md:flex items-center gap-4">
-                <div className="w-[50px] h-[50px] rounded-full bg-white shadow-sm flex items-center p-2">
-                <Image width={100} height={100} src={logo} alt="logo" />
+                <div className="w-[65px] h-[65px] rounded-full bg-white shadow-sm flex items-center p-2">
+                <Image width={150} height={150} src={logo} alt="logo" />
                 </div>
                 <div>
                     <p className="items-center gap-3 font-medium">{company} <Link href={url} className="inline-flex" rel="noopener noreferrer" target="_blank"><FaExternalLinkAlt /></Link></p>

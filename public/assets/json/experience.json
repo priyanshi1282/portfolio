@@ -2,14 +2,14 @@
     "experience" : [
         {
             "id" : 1,
-            "company" : "Techvraksh Pvt. Ltd.",
-            "date" : "Jan 2024 - Present",
-            "location" : "Indore, M.P.",
-            "url" : "https://www.techvraksh.com/",
-            "logo" : "https://ik.imagekit.io/priyanshi/Portfolio/techvraksh.jpg?updatedAt=1707066650381",
-            "role" : "Web Developement Intern",
-            "description" : "Actively contributing to their new product where my role is to develope frontend of the website. Aming to contribute as fullstack developer.",
-            "skills" : "https://skillicons.dev/icons?i=react,sass,bootstrap,css,figma,git,"
+            "company" : "ConsultWarriors",
+            "date" : "Mar 2024 - Apr 2024",
+            "location" : "Remote",
+            "url" : "https://consultwarriors.com/",
+            "logo" : "https://ik.imagekit.io/priyanshi/Portfolio/consultwarriors.svg?updatedAt=1717526579939",
+            "role" : "Web Developer (Freelancer)",
+            "description" : "Developed a responsive business website for ConsultWarrior, showcasing their services and details. Implementing industry standards and creating reusable components ensured an organized codebase. I also integrated React-Hook Forms for user data management and Email.js for responses, and hosted the site on Hostinger.",
+            "skills" : "https://skillicons.dev/icons?i=vite,js,tailwind,css,vercel,git,github"
         },
         {
             "id" : 2,
@@ -19,7 +19,7 @@
             "url" : "https://skydooredtech.in/",
             "logo" : "https://ik.imagekit.io/priyanshi/Portfolio/skydoor.png?updatedAt=1706077725262",
             "role" : "Web Developement Intern",
-            "description" : "Worked on their business website. Interface was designed to develop client's trust and positive interaction. Also involved in creating posters/reels, bringing value to client communication, and boosting brand visibility.",
+            "description" : "Developed a responsive website using React and Bootstrap, ensuring seamless user experience across devices. I enhanced user trust and visibility with a visually appealing UI and SEO best practices, integrated Google Forms for efficient data collection, and used ImageKit.io for fast image delivery, hosting on Hostinger for reliable performance.",
             "skills" : "https://skillicons.dev/icons?i=react,js,bootstrap,css,vercel,git"
         }
     ]
