@@ -77,7 +77,7 @@ const Terminal = () => {
                         {/* ans */}
                         <div className="ans">
                             <p>
-                                [&quot;Java&quot;, &quot;React JS&quot;, &quot;Sass&quot;, &quot;Tailwind/Bootstrap&quot;, &quot;Git&quot;, &quot;MySQL&quot;, &quot;Designing&quot;]
+                                [&quot;Java&quot;, &quot;React JS&quot;, &quot;Sass&quot;, &quot;Tailwind/Bootstrap&quot;, &quot;Git/Github&quot;, &quot;MySQL&quot;, &quot;Figma/Canva&quot;]
                             </p>
                         </div>
                     </div>
@@ -92,7 +92,7 @@ const Terminal = () => {
                         {/* ans */}
                         <div className="ans">
                             <p>
-                                [&quot;Mentoring&quot;, &quot;Art & Craft&quot;, &quot;Organizing&quot;]
+                                [&quot;Mentoring&quot;, &quot;Art & Craft&quot;, &quot;Graphic Design&quot;]
                             </p>
                         </div>
                     </div>

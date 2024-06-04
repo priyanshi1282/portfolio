@@ -7,7 +7,7 @@ const Volunteer = () => {
   const data= volunteerData.volunteer;
   return (
     <section>
-        <Heading title="Volunteer" />
+        <Heading title="Postion of Responsiblity" />
         <div className='flex flex-col md:gap-20 gap-10'>
         {
           data.map((item)=>(
