@@ -1,4 +1,3 @@
-import { Span } from "next/dist/trace";
 import Image from "next/image"
 import Link from "next/link"
 import { FaExternalLinkAlt } from "react-icons/fa";
@@ -27,7 +26,7 @@ const ExperienceCard = (props) => {
         <div className="md:w-[calc(100%-25%)]">
             <div className="md:flex items-center gap-4">
                 <div className="w-[65px] h-[65px] rounded-full bg-white shadow-sm flex items-center p-2">
-                <Image width={150} height={150} src={logo} alt="logo" />
+                {logo != "/" ? <Image width={150} height={150} src={logo} alt="logo" /> : <span className="w-full text-center font-semibold text-sm">{company.split(" ").filter(w => /^[A-Za-z]/.test(w)).slice(0, 2).map(w => w[0]).join("")}</span>}
                 </div>
                 <div>
                     <p className="items-center gap-3 font-medium">{company} <Link href={url} className="inline-flex" rel="noopener noreferrer" target="_blank"><FaExternalLinkAlt /></Link></p>

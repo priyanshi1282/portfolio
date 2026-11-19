@@ -1,26 +1,48 @@
 {
-    "experience" : [
+    "experience": [
         {
-            "id" : 1,
-            "company" : "ConsultWarriors",
-            "date" : "Mar 2024 - Apr 2024",
-            "location" : "Remote",
-            "url" : "https://consultwarriors.com/",
-            "logo" : "https://ik.imagekit.io/priyanshi/Portfolio/consultwarriors.svg?updatedAt=1717526579939",
-            "role" : "Web Developer (Freelancer)",
-            "description" : "Developed a responsive business website for ConsultWarrior, showcasing their services and details. Implementing industry standards and creating reusable components ensured an organized codebase. I also integrated React-Hook Forms for user data management and Email.js for responses, and hosted the site on Hostinger.",
-            "skills" : "https://skillicons.dev/icons?i=vite,js,tailwind,css,vercel,git,github"
+            "id": 1,
+            "company": "RunCommerce.ai",
+            "date": "May 2026 - Present",
+            "location": "Dublin, Ireland",
+            "url": "https://www.runcommerce.ai/",
+            "logo": "/",
+            "role": "AI and Product Engineer",
+            "description": "I build and ship AI features that online merchants use for product content, SEO, translation, pricing and imagery, working across TypeScript, React, Python, PostgreSQL and serverless Deno edge functions. I integrate Anthropic Claude and Google Vertex Gemini with structured outputs, ground every result in the merchant's own catalogue data, test failure modes and edge cases on real data, and build human approval steps so no AI change reaches a live store unchecked.",
+            "skills": "https://skillicons.dev/icons?i=ts,react,python,postgres,supabase,gcp,git"
         },
         {
-            "id" : 2,
-            "company" : "SkyDoor EdTech International",
-            "date" : "Aug 2023 - Oct 2023",
-            "location" : "Indore, M.P.",
-            "url" : "https://skydooredtech.in/",
-            "logo" : "https://ik.imagekit.io/priyanshi/Portfolio/skydoor.png?updatedAt=1706077725262",
-            "role" : "Web Developement Intern",
-            "description" : "Developed a responsive website using React and Bootstrap, ensuring seamless user experience across devices. I enhanced user trust and visibility with a visually appealing UI and SEO best practices, integrated Google Forms for efficient data collection, and used ImageKit.io for fast image delivery, hosting on Hostinger for reliable performance.",
-            "skills" : "https://skillicons.dev/icons?i=react,js,bootstrap,css,vercel,git"
+            "id": 2,
+            "company": "Tata Consultancy Services (TCS)",
+            "date": "Aug 2024 - Aug 2025",
+            "location": "Mumbai, India",
+            "url": "https://www.tcs.com/",
+            "logo": "/",
+            "role": "Assistant System Engineer",
+            "description": "I monitored and supported 73+ mission-critical production Linux servers and Oracle databases for enterprise clients, protecting sensitive data and maintaining high availability. I wrote Bash automation to remove error-prone manual steps, which reduced incident resolution time, and worked in Agile sprints with code reviews and clear documentation.",
+            "skills": "https://skillicons.dev/icons?i=linux,bash,git"
+        },
+        {
+            "id": 3,
+            "company": "ConsultWarriors",
+            "date": "Mar 2024 - Apr 2024",
+            "location": "Remote",
+            "url": "https://consultwarriors.com/",
+            "logo": "https://ik.imagekit.io/priyanshi/Portfolio/consultwarriors.svg?updatedAt=1717526579939",
+            "role": "Web Developer (Freelancer)",
+            "description": "Developed a responsive business website for ConsultWarrior, showcasing their services and details. Implementing industry standards and creating reusable components ensured an organized codebase. I also integrated React-Hook Forms for user data management and Email.js for responses, and hosted the site on Hostinger.",
+            "skills": "https://skillicons.dev/icons?i=vite,js,tailwind,css,vercel,git,github"
+        },
+        {
+            "id": 4,
+            "company": "SkyDoor EdTech International",
+            "date": "Aug 2023 - Oct 2023",
+            "location": "Indore, M.P.",
+            "url": "https://skydooredtech.in/",
+            "logo": "https://ik.imagekit.io/priyanshi/Portfolio/skydoor.png?updatedAt=1706077725262",
+            "role": "Web Developement Intern",
+            "description": "Developed a responsive website using React and Bootstrap, ensuring seamless user experience across devices. I enhanced user trust and visibility with a visually appealing UI and SEO best practices, integrated Google Forms for efficient data collection, and used ImageKit.io for fast image delivery, hosting on Hostinger for reliable performance.",
+            "skills": "https://skillicons.dev/icons?i=react,js,bootstrap,css,vercel,git"
         }
     ]
 }

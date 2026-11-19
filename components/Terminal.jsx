@@ -24,7 +24,7 @@ const Terminal = () => {
                         </div>
                         {/* ans */}
                         <div className="ans">
-                            <p>&quot;Indore, India&quot;</p>
+                            <p>&quot;Dublin, Ireland&quot;</p>
                         </div>
                     </div>
 
@@ -37,7 +37,7 @@ const Terminal = () => {
                         </div>
                         {/* ans */}
                         <div className="ans">
-                            <p>[&quot;<Link className="terminal-link" href="mailto:priyanshiagrawal1282@gmail.com" rel="noopener noreferrer" target="_blank">priyanshiagrawal1282@gmail.com</Link>&quot;, &quot;<Link className="terminal-link" href="https://www.linkedin.com/in/priyanshi-agrawal-88b6341bb/" rel="noopener noreferrer" target="_blank">LinkedIn</Link>&quot;, &quot;<Link className="terminal-link" href="https://github.com/priyanshi1282" rel="noopener noreferrer" target="_blank">Github</Link>&quot;]</p>
+                            <p>[&quot;<Link className="terminal-link" href="mailto:priyanshiagrawal1282@gmail.com" rel="noopener noreferrer" target="_blank">priyanshiagrawal1282@gmail.com</Link>&quot;, &quot;<Link className="terminal-link" href="https://www.linkedin.com/in/priyanshi-agrawal1282/" rel="noopener noreferrer" target="_blank">LinkedIn</Link>&quot;, &quot;<Link className="terminal-link" href="https://github.com/priyanshi1282" rel="noopener noreferrer" target="_blank">Github</Link>&quot;]</p>
                         </div>
                     </div>
 
@@ -63,7 +63,7 @@ const Terminal = () => {
                         </div>
                         {/* ans */}
                         <div className="ans">
-                            <p>&quot;Btech/Computer Science & Engineering - Medi-Caps University&quot;</p>
+                            <p>[&quot;MSc Computer Science - University College Dublin&quot;, &quot;BTech Computer Science & Engineering - Medi-Caps University&quot;]</p>
                         </div>
                     </div>
 
@@ -77,7 +77,7 @@ const Terminal = () => {
                         {/* ans */}
                         <div className="ans">
                             <p>
-                                [&quot;Java&quot;, &quot;React JS&quot;, &quot;Sass&quot;, &quot;Tailwind/Bootstrap&quot;, &quot;Git/Github&quot;, &quot;MySQL&quot;, &quot;Figma/Canva&quot;]
+                                [&quot;Python&quot;, &quot;TypeScript&quot;, &quot;React&quot;, &quot;SQL/PostgreSQL&quot;, &quot;LLMs &amp; RAG&quot;, &quot;AI Agents&quot;, &quot;Java&quot;, &quot;GCP&quot;]
                             </p>
                         </div>
                     </div>

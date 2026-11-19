@@ -7,7 +7,7 @@ const Footer = () => {
         <div className='flex flex-wrap gap-2 md:gap-4 text-base justify-center'>
             <Link href="mailto:priyanshiagrawal1282@gmail.com" className='hover' rel="noopener noreferrer" target="_blank">Email</Link>
             <span>||</span>
-            <Link href="https://www.linkedin.com/in/priyanshi-agrawal-88b6341bb/" className='hover' rel="noopener noreferrer" target="_blank">LinkedIn</Link>
+            <Link href="https://www.linkedin.com/in/priyanshi-agrawal1282/" className='hover' rel="noopener noreferrer" target="_blank">LinkedIn</Link>
             <span>||</span>
             <Link href="https://github.com/priyanshi1282" className='hover' rel="noopener noreferrer" target="_blank">Github</Link>
             <span>||</span>
